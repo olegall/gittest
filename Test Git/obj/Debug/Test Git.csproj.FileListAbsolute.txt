@@ -1,0 +1,99 @@
+D:\Работа\Git\Test ASP.NET\Test Git\bin\ApplicationInsights.config
+D:\Работа\Git\Test ASP.NET\Test Git\bin\Test Git.dll.config
+D:\Работа\Git\Test ASP.NET\Test Git\bin\Test Git.dll
+D:\Работа\Git\Test ASP.NET\Test Git\bin\Test Git.pdb
+D:\Работа\Git\Test ASP.NET\Test Git\bin\Antlr3.Runtime.dll
+D:\Работа\Git\Test ASP.NET\Test Git\bin\Microsoft.AI.Agent.Intercept.dll
+D:\Работа\Git\Test ASP.NET\Test Git\bin\Microsoft.AI.DependencyCollector.dll
+D:\Работа\Git\Test ASP.NET\Test Git\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\Работа\Git\Test ASP.NET\Test Git\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\Работа\Git\Test ASP.NET\Test Git\bin\Microsoft.AI.Web.dll
+D:\Работа\Git\Test ASP.NET\Test Git\bin\Microsoft.AI.WindowsServer.dll
+D:\Работа\Git\Test ASP.NET\Test Git\bin\Microsoft.ApplicationInsights.dll
+D:\Работа\Git\Test ASP.NET\Test Git\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Работа\Git\Test ASP.NET\Test Git\bin\Microsoft.Web.Infrastructure.dll
+D:\Работа\Git\Test ASP.NET\Test Git\bin\Newtonsoft.Json.dll
+D:\Работа\Git\Test ASP.NET\Test Git\bin\System.Web.Helpers.dll
+D:\Работа\Git\Test ASP.NET\Test Git\bin\System.Web.Mvc.dll
+D:\Работа\Git\Test ASP.NET\Test Git\bin\System.Web.Optimization.dll
+D:\Работа\Git\Test ASP.NET\Test Git\bin\System.Web.Razor.dll
+D:\Работа\Git\Test ASP.NET\Test Git\bin\System.Web.WebPages.Deployment.dll
+D:\Работа\Git\Test ASP.NET\Test Git\bin\System.Web.WebPages.dll
+D:\Работа\Git\Test ASP.NET\Test Git\bin\System.Web.WebPages.Razor.dll
+D:\Работа\Git\Test ASP.NET\Test Git\bin\WebGrease.dll
+D:\Работа\Git\Test ASP.NET\Test Git\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Работа\Git\Test ASP.NET\Test Git\bin\System.Web.Helpers.xml
+D:\Работа\Git\Test ASP.NET\Test Git\bin\System.Web.Mvc.xml
+D:\Работа\Git\Test ASP.NET\Test Git\bin\System.Web.Optimization.xml
+D:\Работа\Git\Test ASP.NET\Test Git\bin\System.Web.Razor.xml
+D:\Работа\Git\Test ASP.NET\Test Git\bin\System.Web.WebPages.xml
+D:\Работа\Git\Test ASP.NET\Test Git\bin\System.Web.WebPages.Deployment.xml
+D:\Работа\Git\Test ASP.NET\Test Git\bin\System.Web.WebPages.Razor.xml
+D:\Работа\Git\Test ASP.NET\Test Git\bin\Antlr3.Runtime.pdb
+D:\Работа\Git\Test ASP.NET\Test Git\bin\Newtonsoft.Json.xml
+D:\Работа\Git\Test ASP.NET\Test Git\bin\Microsoft.ApplicationInsights.xml
+D:\Работа\Git\Test ASP.NET\Test Git\bin\Microsoft.AI.DependencyCollector.xml
+D:\Работа\Git\Test ASP.NET\Test Git\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\Работа\Git\Test ASP.NET\Test Git\bin\Microsoft.AI.WindowsServer.xml
+D:\Работа\Git\Test ASP.NET\Test Git\bin\Microsoft.AI.Web.xml
+D:\Работа\Git\Test ASP.NET\Test Git\bin\ru\System.Web.Helpers.resources.dll
+D:\Работа\Git\Test ASP.NET\Test Git\bin\ru\System.Web.Mvc.resources.dll
+D:\Работа\Git\Test ASP.NET\Test Git\bin\ru\System.Web.Optimization.resources.dll
+D:\Работа\Git\Test ASP.NET\Test Git\bin\ru\System.Web.Razor.resources.dll
+D:\Работа\Git\Test ASP.NET\Test Git\bin\ru\System.Web.WebPages.resources.dll
+D:\Работа\Git\Test ASP.NET\Test Git\bin\ru\System.Web.WebPages.Deployment.resources.dll
+D:\Работа\Git\Test ASP.NET\Test Git\bin\ru\System.Web.WebPages.Razor.resources.dll
+D:\Работа\Git\Test ASP.NET\Test Git\obj\Debug\Test Git.csprojResolveAssemblyReference.cache
+D:\Работа\Git\Test ASP.NET\Test Git\obj\Debug\Test Git.csproj.CoreCompileInputs.cache
+D:\Работа\Git\Test ASP.NET\Test Git\obj\Debug\Test Git.dll
+D:\Работа\Git\Test ASP.NET\Test Git\obj\Debug\Test Git.pdb
+C:\Работа\Git\Test ASP.NET\Test Git\bin\ApplicationInsights.config
+C:\Работа\Git\Test ASP.NET\Test Git\bin\Test Git.dll.config
+C:\Работа\Git\Test ASP.NET\Test Git\bin\Test Git.dll
+C:\Работа\Git\Test ASP.NET\Test Git\bin\Test Git.pdb
+C:\Работа\Git\Test ASP.NET\Test Git\bin\Antlr3.Runtime.dll
+C:\Работа\Git\Test ASP.NET\Test Git\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Работа\Git\Test ASP.NET\Test Git\bin\Microsoft.AI.DependencyCollector.dll
+C:\Работа\Git\Test ASP.NET\Test Git\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Работа\Git\Test ASP.NET\Test Git\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Работа\Git\Test ASP.NET\Test Git\bin\Microsoft.AI.Web.dll
+C:\Работа\Git\Test ASP.NET\Test Git\bin\Microsoft.AI.WindowsServer.dll
+C:\Работа\Git\Test ASP.NET\Test Git\bin\Microsoft.ApplicationInsights.dll
+C:\Работа\Git\Test ASP.NET\Test Git\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Работа\Git\Test ASP.NET\Test Git\bin\Microsoft.Web.Infrastructure.dll
+C:\Работа\Git\Test ASP.NET\Test Git\bin\Newtonsoft.Json.dll
+C:\Работа\Git\Test ASP.NET\Test Git\bin\System.Web.Helpers.dll
+C:\Работа\Git\Test ASP.NET\Test Git\bin\System.Web.Mvc.dll
+C:\Работа\Git\Test ASP.NET\Test Git\bin\System.Web.Optimization.dll
+C:\Работа\Git\Test ASP.NET\Test Git\bin\System.Web.Razor.dll
+C:\Работа\Git\Test ASP.NET\Test Git\bin\System.Web.WebPages.Deployment.dll
+C:\Работа\Git\Test ASP.NET\Test Git\bin\System.Web.WebPages.dll
+C:\Работа\Git\Test ASP.NET\Test Git\bin\System.Web.WebPages.Razor.dll
+C:\Работа\Git\Test ASP.NET\Test Git\bin\WebGrease.dll
+C:\Работа\Git\Test ASP.NET\Test Git\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Работа\Git\Test ASP.NET\Test Git\bin\System.Web.Helpers.xml
+C:\Работа\Git\Test ASP.NET\Test Git\bin\System.Web.Mvc.xml
+C:\Работа\Git\Test ASP.NET\Test Git\bin\System.Web.Optimization.xml
+C:\Работа\Git\Test ASP.NET\Test Git\bin\System.Web.Razor.xml
+C:\Работа\Git\Test ASP.NET\Test Git\bin\System.Web.WebPages.xml
+C:\Работа\Git\Test ASP.NET\Test Git\bin\System.Web.WebPages.Deployment.xml
+C:\Работа\Git\Test ASP.NET\Test Git\bin\System.Web.WebPages.Razor.xml
+C:\Работа\Git\Test ASP.NET\Test Git\bin\Antlr3.Runtime.pdb
+C:\Работа\Git\Test ASP.NET\Test Git\bin\Newtonsoft.Json.xml
+C:\Работа\Git\Test ASP.NET\Test Git\bin\Microsoft.ApplicationInsights.xml
+C:\Работа\Git\Test ASP.NET\Test Git\bin\Microsoft.AI.DependencyCollector.xml
+C:\Работа\Git\Test ASP.NET\Test Git\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Работа\Git\Test ASP.NET\Test Git\bin\Microsoft.AI.WindowsServer.xml
+C:\Работа\Git\Test ASP.NET\Test Git\bin\Microsoft.AI.Web.xml
+C:\Работа\Git\Test ASP.NET\Test Git\bin\ru\System.Web.Helpers.resources.dll
+C:\Работа\Git\Test ASP.NET\Test Git\bin\ru\System.Web.Mvc.resources.dll
+C:\Работа\Git\Test ASP.NET\Test Git\bin\ru\System.Web.Optimization.resources.dll
+C:\Работа\Git\Test ASP.NET\Test Git\bin\ru\System.Web.Razor.resources.dll
+C:\Работа\Git\Test ASP.NET\Test Git\bin\ru\System.Web.WebPages.resources.dll
+C:\Работа\Git\Test ASP.NET\Test Git\bin\ru\System.Web.WebPages.Deployment.resources.dll
+C:\Работа\Git\Test ASP.NET\Test Git\bin\ru\System.Web.WebPages.Razor.resources.dll
+C:\Работа\Git\Test ASP.NET\Test Git\obj\Debug\Test Git.csprojAssemblyReference.cache
+C:\Работа\Git\Test ASP.NET\Test Git\obj\Debug\Test Git.csproj.CoreCompileInputs.cache
+C:\Работа\Git\Test ASP.NET\Test Git\obj\Debug\Test Git.csproj.CopyComplete
+C:\Работа\Git\Test ASP.NET\Test Git\obj\Debug\Test Git.dll
+C:\Работа\Git\Test ASP.NET\Test Git\obj\Debug\Test Git.pdb
