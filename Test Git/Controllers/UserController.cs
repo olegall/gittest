@@ -10,7 +10,12 @@ namespace Test_Git.Controllers
     {
         public ActionResult GetAll()
         {
-            return View(); 
+            return View();
+        }
+
+        public ActionResult GetFirst()
+        {
+            return View();
         }
     }
 }
