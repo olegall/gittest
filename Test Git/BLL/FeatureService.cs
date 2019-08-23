@@ -13,5 +13,12 @@ namespace Test_Git.BLL
         void Action1()
         {
         }
+
+        /// <summary>
+        /// Функционал 2
+        /// </summary>
+        void Action2()
+        {
+        }
     }
 }
